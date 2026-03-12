@@ -16,6 +16,14 @@ Small Tkinter GUI for comparing straight salary scaling with a utility-adjusted 
 ### Run
 
 ```bash
+salary-calculator
+```
+
+After installation with `uv tool install -e .`, you can launch it directly with the command above.
+
+You can also run it from the project directory with:
+
+```bash
 python3 main.py
 ```
 
