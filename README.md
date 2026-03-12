@@ -2,6 +2,8 @@
 
 Small Tkinter GUI for comparing straight salary scaling with a utility-adjusted salary, including a live visualization of the daily utility curve.
 
+![Screenshot](screenshot.png)
+
 ### Assumptions
 
 - The entered salary represents a standard schedule of `5` working days and `40` hours per week.
